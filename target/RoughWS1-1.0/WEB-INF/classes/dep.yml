@@ -1,0 +1,13 @@
+department: 
+ deptId: 1000
+ deptName: EEE
+# faculty: ["GSR","GLD","GNS"]
+ faculty: 
+  - GNR
+  - GM
+  - GSR  
+ subject: {100: maths,200: physics,300: chemistry}
+count: 10
+ 
+
+ 

@@ -1,0 +1,4 @@
+family: 
+ - {father : "GNR",mother: "GMK"}
+ - {father: "GSR",mother: "GLD"}
+ - {father: "GSD",mother: "GTL"}!!com.model.Family {father: GNS, mother: SOON}
